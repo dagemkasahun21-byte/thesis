@@ -1,0 +1,8 @@
+{
+  "name": "Amharic SLU Research Lab",
+  "description": "An interactive academic research platform and Google Colab curriculum for developing Amharic speech-based conversational agents for customer service in financial institutions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
